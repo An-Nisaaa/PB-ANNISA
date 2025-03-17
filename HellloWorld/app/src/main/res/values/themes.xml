@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HellloWorld" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#2B638E</item>
+        <item name="colorPrimaryVariant">#2B638E</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/material_dynamic_neutral20</item>
+        <item name="colorSecondaryVariant">@color/material_dynamic_neutral20</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- status bar color -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.HellloWorld" parent="Base.Theme.HellloWorld" />
+</resources>

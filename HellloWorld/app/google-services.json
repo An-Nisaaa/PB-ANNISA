@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2582998343",
+    "project_id": "pemrogramanbergerak-32ed4",
+    "storage_bucket": "pemrogramanbergerak-32ed4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2582998343:android:ce6cb851a96e29d7d33062",
+        "android_client_info": {
+          "package_name": "com.example.hellloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5ru9ZFTO-hVpegSrg4HIUL_wWPOKU38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
